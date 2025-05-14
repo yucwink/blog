@@ -10,7 +10,8 @@ export const navbar = defineNavbarConfig([
     items: [
       { text: '示例', link: '/notes/demo/README.md' },
       { text: 'springboot', link: '/notes/springboot/springboot1.md' },
-      { text: 'idea快捷键', link: '/notes/springboot/ideaUse.md' }
+      { text: 'idea快捷键', link: '/notes/springboot/ideaUse.md' },
+      { text: 'k8s概念', link: '/notes/kubernetes/kubernetes.md' }
     ]
   },
 ])
